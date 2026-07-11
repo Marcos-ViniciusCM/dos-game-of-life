@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Open Watcom DOS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/WATCOM/h"
+            ],
+            "defines": [
+                "_DEBUG",
+                "__DOS__",
+                "__I86__",
+                "__WATCOMC__",
+                 "__far=",
+                "__near=",
+                "__huge=",
+                "__interrupt="
+            ],
+            "compilerPath": "C:/WATCOM/binnt64/wcl.exe", 
+            "cStandard": "c89",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
