@@ -2,13 +2,12 @@
 
 Trata-se de uma implementação do "Jogo da Vida de Conway" para o MS-DOS, desenvolvida em C, que utiliza programação gráfica com VGA (Modo 13h - 320x200, 256 cores).
 
-O objetivo deste projeto é aprofundar os meus conhecimentos de programação de baixo nível, de programação gráfica para o MS-DOS e de manipulação direta da memória, explorando conceitos que normalmente ficam abstraídos no desenvolvimento moderno. Além disso, este repositório serve como registo da minha evolução técnica e dos experimentos realizados nesta área.
+Este repositório serve como registo da minha evolução técnica e dos experimentos realizados nesta área.
 
 
 # Objetivos
 
 - Aperfeiçoar os conhecimentos de programação de baixo nível;
-- Explorar a programação gráfica com recurso à VGA.
 - Compreender melhor o funcionamento da comunicação direta com o hardware.
 - Praticar a manipulação de memória e estruturas de dados em C.
 - Desenvolver uma implementação própria do "Jogo da Vida", sem recorrer a bibliotecas gráficas modernas.
@@ -31,7 +30,6 @@ Funcionalidades:
 - Implementação do algoritmo do Jogo da Vida de Conway;
 - Renderização com acesso direto ao modo gráfico VGA;
 - Atualização do tabuleiro em tempo real;
-- Código organizado para facilitar o estudo e futuras melhorias.
 
 ---
 
